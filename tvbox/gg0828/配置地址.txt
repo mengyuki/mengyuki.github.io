@@ -1,0 +1,9 @@
+clan://localhost/TVBox/gg0828/local-gg0828.json
+
+http://frp.104300.xyz:10692/api/public/dl/zf2tBFEd/gg0828/local-gg0828.json
+
+
+直播
+http://frp.104300.xyz:10692/api/public/dl/zf2tBFEd/gg0828/tv.txt
+Base64编码
+aHR0cDovL2ZycC4xMDQzMDAueHl6OjEwNjkyL2FwaS9wdWJsaWMvZGwvemYydEJGRWQvZ2cwODI4L3R2LnR4dA==
